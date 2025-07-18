@@ -36,11 +36,12 @@ To run this project locally:
 ```bash
 git clone https://github.com/hamzaanwerdev/laslesvpn.git
 cd laslesvpn
-```
----
 
-2. Install Dependencies
- ```bash
-bun install
-bun run dev
 ```
+### 2. Install Dependencies
+```bash
+bun install  # or npm install / yarn install
+```
+### 3. Start the Development Server
+```bash
+bun run dev  # or npm run dev / yarn dev
